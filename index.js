@@ -13,7 +13,7 @@ earlyYears = earlyYears * 10.5
 // Set the result equal to a variable called laterYears. We’ll be changing this value later.
 let laterYears = myAge - 2;
 
-let dogYears = laterYears * 4;
+laterYears = laterYears * 4;
 console.log(earlyYears)
 console.log(laterYears)
 
